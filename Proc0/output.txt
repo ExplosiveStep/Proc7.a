@@ -1,0 +1,18 @@
+Filled container. 
+Container contains 3 elements.
+0: It is Truck: cargo = 1400, engine = 200
+1: It is bus: capacity = 40, engine = 140
+2: It is Truck: cargo = 1300, engine = 300
+
+
+MULTIMETHOD. 
+Bus and Truck.
+It is Truck: cargo = 1400, engine = 200
+It is bus: capacity = 40, engine = 140
+Truck and Truck.
+It is Truck: cargo = 1400, engine = 200
+It is Truck: cargo = 1300, engine = 300
+Bus and Truck.
+It is bus: capacity = 40, engine = 140
+It is Truck: cargo = 1300, engine = 300
+Empty container. 
